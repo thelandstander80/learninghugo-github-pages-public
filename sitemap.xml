@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc></url><url>
-            <loc>/</loc></url><url>
-            <loc>/offline/</loc></url><url>
-            <loc>/tags/</loc></url></urlset>
+            <loc>http://thelandstander80.github.io/learninghugo-github-pages-public/categories/</loc></url><url>
+            <loc>http://thelandstander80.github.io/learninghugo-github-pages-public/</loc></url><url>
+            <loc>http://thelandstander80.github.io/learninghugo-github-pages-public/offline/</loc></url><url>
+            <loc>http://thelandstander80.github.io/learninghugo-github-pages-public/tags/</loc></url></urlset>
